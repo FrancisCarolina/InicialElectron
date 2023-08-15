@@ -1,0 +1,15 @@
+{
+  "name": "elec-app",
+  "version": "1.0.0",
+  "description": "mu-test-app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "francis.lovo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
